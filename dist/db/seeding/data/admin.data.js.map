@@ -1,0 +1,1 @@
+{"version":3,"file":"admin.data.js","sourceRoot":"","sources":["../../../../src/db/seeding/data/admin.data.ts"],"names":[],"mappings":";;;AAAA,yDAA8C;AAE9C,MAAM,aAAa,GAAG;IACpB,QAAQ,EAAE,MAAM;IAChB,QAAQ,EAAE,8DAA8D;IACxE,IAAI,EAAE,kBAAM,CAAC,KAAK;CACnB,CAAC;AAEO,sCAAa"}
