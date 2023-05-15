@@ -13,22 +13,4 @@ export class AdminService {
     private adminRepository: Repository<AdminEntity>,
   ) {}
 
-  // private investService: InvestService,
-  // async findAdminByEmail(email: string): Promise<AdminEntity> {
-  //   return await this.adminRepository.findOne({ where: { email } });
-  // }
-
-  // async createInvestmentPlan(
-  //   data: CreateInvestmentPlanDto,
-  // ): Promise<InvestmentPlanEntity> {
-  //   return this.investService.createInvestmentPlan(data);
-  // }
-  // async updateInvestmentPlan(
-  //   data: Partial<InvestmentPlanEntity>,
-  // ): Promise<InvestmentPlanEntity> {
-  //   return this.investService.updateInvestmentPlan(data);
-  // }
-  // async deleteInvestmentPlan(id: string): Promise<boolean> {
-  //   return this.investService.deleteInvestmentPlan(id);
-  // }
 }
